@@ -1,0 +1,22 @@
+.homepage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 10px;
+    
+}
+
+.homepage h2{
+    align-self: center;
+    padding: 100px;
+
+}
+
+.homepage img {
+    flex: 1; 
+    margin-left: 20px;
+    width: 840px;  
+    height: 700px;
+    object-fit: contain;  
+}

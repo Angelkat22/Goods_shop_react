@@ -1,0 +1,13 @@
+.footer_section{
+    display: flex;
+    /* flex: 0 0 auto; */
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    font-weight: bold;
+    /* position: fixed; */
+
+    height: 100px; 
+   
+    /* position: sticky; */
+    }

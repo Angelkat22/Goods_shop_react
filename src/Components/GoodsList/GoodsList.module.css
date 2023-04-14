@@ -1,0 +1,7 @@
+.goods_container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 35px;
+    margin-top: 50px;
+
+}

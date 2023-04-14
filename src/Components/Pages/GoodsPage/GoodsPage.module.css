@@ -1,0 +1,24 @@
+.goods_wrapper{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* margin-top: 20px; */
+    margin: 10px;
+
+
+
+    /* margin-top: 130px;
+    /* min-height: 80vh; 
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px; 
+    color: white; */
+}
+.goods_wrapper h2 {
+    /* align-self: center; */
+    padding: 100px;
+    margin-top: 280px;
+}

@@ -1,0 +1,24 @@
+.contact_page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.contact_page h2{
+    align-self: center;
+    padding: 77px; 
+}
+.contact_page p{
+    color: black;
+    border: 3px solid transparent;
+    text-decoration: none;
+}
+
+.contact_map {
+    width: 840px;  
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    
+}
